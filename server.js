@@ -15,7 +15,7 @@ const friends = [
   },
   {
     id: 2,
-    name: "sana",
+    name: "sam",
   },
 ];
 
